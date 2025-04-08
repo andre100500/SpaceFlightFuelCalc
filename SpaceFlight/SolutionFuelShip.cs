@@ -34,7 +34,7 @@ namespace SpaceFlight
             }
 
             SolutionFuelShip.ProcessLaunchAndLand(mass, destinations);
-            Console.WriteLine("Route completed.");
+            Console.WriteLine("Маршрут завершен.");
         }
     }
     public class SolutionFuelShip
